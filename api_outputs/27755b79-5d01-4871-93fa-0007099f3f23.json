@@ -1,0 +1,124 @@
+{
+  "video_id": "2025-05-31_14-01-37_UTC",
+  "vibes": [
+    "Party Glam",
+    "Clean Girl",
+    "Streetcore"
+  ],
+  "products": [
+    {
+      "type": "dress",
+      "matched_product_id": 118461,
+      "match_type": "similar",
+      "confidence": 0.8789697885513306
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 15290,
+      "match_type": "similar",
+      "confidence": 0.8810882568359375
+    },
+    {
+      "type": "sleeve",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.8023399710655212
+    },
+    {
+      "type": "neckline",
+      "matched_product_id": 16919,
+      "match_type": "similar",
+      "confidence": 0.7578369975090027
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 42109,
+      "match_type": "similar",
+      "confidence": 0.8196097612380981
+    },
+    {
+      "type": "pocket",
+      "matched_product_id": 15871,
+      "match_type": "similar",
+      "confidence": 0.754683792591095
+    },
+    {
+      "type": "pants",
+      "matched_product_id": 15875,
+      "match_type": "similar",
+      "confidence": 0.7940480709075928
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 16584,
+      "match_type": "similar",
+      "confidence": 0.8677384257316589
+    },
+    {
+      "type": "skirt",
+      "matched_product_id": 16040,
+      "match_type": "similar",
+      "confidence": 0.8278329372406006
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 97557,
+      "match_type": "similar",
+      "confidence": 0.7814765572547913
+    },
+    {
+      "type": "skirt",
+      "matched_product_id": 16118,
+      "match_type": "similar",
+      "confidence": 0.8075357675552368
+    },
+    {
+      "type": "sleeve",
+      "matched_product_id": 17179,
+      "match_type": "similar",
+      "confidence": 0.7801824808120728
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 14999,
+      "match_type": "similar",
+      "confidence": 0.8887388110160828
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 16056,
+      "match_type": "exact",
+      "confidence": 0.912440299987793
+    },
+    {
+      "type": "sleeve",
+      "matched_product_id": 42102,
+      "match_type": "similar",
+      "confidence": 0.7746806144714355
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 16880,
+      "match_type": "similar",
+      "confidence": 0.8354583978652954
+    },
+    {
+      "type": "sleeve",
+      "matched_product_id": 16968,
+      "match_type": "similar",
+      "confidence": 0.7641956806182861
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 15672,
+      "match_type": "similar",
+      "confidence": 0.8161768317222595
+    },
+    {
+      "type": "sleeve",
+      "matched_product_id": 15209,
+      "match_type": "similar",
+      "confidence": 0.7539464831352234
+    }
+  ]
+}

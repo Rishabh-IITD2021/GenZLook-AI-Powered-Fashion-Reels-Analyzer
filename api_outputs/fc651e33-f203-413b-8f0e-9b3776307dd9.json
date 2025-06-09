@@ -1,0 +1,40 @@
+{
+  "video_id": "2025-05-27_13-46-16_UTC",
+  "vibes": [
+    "Party Glam",
+    "Cottagecore",
+    "Clean Girl"
+  ],
+  "products": [
+    {
+      "type": "skirt",
+      "matched_product_id": 42076,
+      "match_type": "similar",
+      "confidence": 0.7996876835823059
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 16968,
+      "match_type": "similar",
+      "confidence": 0.7984731793403625
+    },
+    {
+      "type": "collar",
+      "matched_product_id": 15381,
+      "match_type": "similar",
+      "confidence": 0.7558879256248474
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 42030,
+      "match_type": "similar",
+      "confidence": 0.766015350818634
+    },
+    {
+      "type": "pants",
+      "matched_product_id": 15209,
+      "match_type": "similar",
+      "confidence": 0.8108649849891663
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "2025-06-02_11-31-19_UTC",
+  "vibes": [
+    "Party Glam",
+    "Coquette",
+    "Y2K"
+  ],
+  "products": [
+    {
+      "type": "neckline",
+      "matched_product_id": 16622,
+      "match_type": "similar",
+      "confidence": 0.7690175771713257
+    },
+    {
+      "type": "neckline",
+      "matched_product_id": 16122,
+      "match_type": "similar",
+      "confidence": 0.764858603477478
+    },
+    {
+      "type": "neckline",
+      "matched_product_id": 16919,
+      "match_type": "similar",
+      "confidence": 0.7696359157562256
+    },
+    {
+      "type": "skirt",
+      "matched_product_id": 16118,
+      "match_type": "similar",
+      "confidence": 0.7699416875839233
+    },
+    {
+      "type": "neckline",
+      "matched_product_id": 15009,
+      "match_type": "similar",
+      "confidence": 0.7821117043495178
+    },
+    {
+      "type": "sleeve",
+      "matched_product_id": 15232,
+      "match_type": "similar",
+      "confidence": 0.7883107662200928
+    },
+    {
+      "type": "neckline",
+      "matched_product_id": 16584,
+      "match_type": "similar",
+      "confidence": 0.7667673230171204
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 15974,
+      "match_type": "similar",
+      "confidence": 0.8265632390975952
+    },
+    {
+      "type": "skirt",
+      "matched_product_id": 16141,
+      "match_type": "similar",
+      "confidence": 0.7868644595146179
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 16968,
+      "match_type": "similar",
+      "confidence": 0.7696070075035095
+    }
+  ]
+}

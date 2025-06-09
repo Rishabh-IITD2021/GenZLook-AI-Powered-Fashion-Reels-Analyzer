@@ -1,0 +1,106 @@
+{
+  "video_id": "2025-05-28_13-40-09_UTC",
+  "vibes": [
+    "Boho",
+    "Party Glam",
+    "Coquette"
+  ],
+  "products": [
+    {
+      "type": "dress",
+      "matched_product_id": 42067,
+      "match_type": "similar",
+      "confidence": 0.7898558974266052
+    },
+    {
+      "type": "neckline",
+      "matched_product_id": 16622,
+      "match_type": "similar",
+      "confidence": 0.7724722027778625
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 16107,
+      "match_type": "similar",
+      "confidence": 0.8137089610099792
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 16118,
+      "match_type": "similar",
+      "confidence": 0.7894489169120789
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 42032,
+      "match_type": "similar",
+      "confidence": 0.8391023278236389
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 16870,
+      "match_type": "similar",
+      "confidence": 0.8487269282341003
+    },
+    {
+      "type": "skirt",
+      "matched_product_id": 42114,
+      "match_type": "similar",
+      "confidence": 0.7744667530059814
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 16919,
+      "match_type": "similar",
+      "confidence": 0.8000231385231018
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 15614,
+      "match_type": "similar",
+      "confidence": 0.7958481311798096
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 14996,
+      "match_type": "similar",
+      "confidence": 0.7885773181915283
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 42082,
+      "match_type": "similar",
+      "confidence": 0.7903355360031128
+    },
+    {
+      "type": "skirt",
+      "matched_product_id": 42030,
+      "match_type": "similar",
+      "confidence": 0.7710675001144409
+    },
+    {
+      "type": "pocket",
+      "matched_product_id": 42109,
+      "match_type": "similar",
+      "confidence": 0.7798600196838379
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 97548,
+      "match_type": "similar",
+      "confidence": 0.7662423849105835
+    },
+    {
+      "type": "dress",
+      "matched_product_id": 17128,
+      "match_type": "similar",
+      "confidence": 0.7614706754684448
+    },
+    {
+      "type": "top, t-shirt, sweatshirt",
+      "matched_product_id": 15430,
+      "match_type": "similar",
+      "confidence": 0.8158251643180847
+    }
+  ]
+}
